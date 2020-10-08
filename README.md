@@ -1,1 +1,1 @@
-# Mchine_Learning_GMIT
+# Machine_Learning_GMIT
