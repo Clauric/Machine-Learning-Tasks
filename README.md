@@ -20,12 +20,15 @@ This ReadMe, and the associated Jupyter Notebook, were written for assignment in
 
 ### External libraries
 These are libraries that are not normally part of the standard installation with Python, and will need to be installed prior to running some of these scripts. The questions that the libraries are needed for is listed after the library name.
+
 * [DateTime](https://docs.python.org/3/library/datetime.html)
 * [Matplotlib.pyplot](https://matplotlib.org/)
 * [NumPy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [PrettyTable](https://pypi.org/project/prettytable/)
+* [Seaborn](https://seaborn.pydata.org/)
 * [SciPy](https://www.scipy.org/)
+* [SciKitLearn](https://scikit-learn.org/stable/)
 
 #### Note:
 You will also need to have installed the [tabulate](https://pypi.org/project/tabulate/) library, as it provides some of the layouts for the Pandas dataframes.
