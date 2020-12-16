@@ -47,6 +47,9 @@ The assignment was broken into 4 parts. The specific tasks are listed in the not
 3. Discuss standard deviation, the difference between populationa and standard deviation with relation to accuracy of the estimate, and provide an example.
 4. Explain k-means clustering with regards to the Fisher's Iris dataset, and discuss the implications.
 
+## Note on task 4
+The code for task #4 was originally written in the week of November 30th, 2020. The task was subsequently changed to be a question on K-nearest neighbour (KNN), as oppesed to k-means. However, by the time that the change in the task was clarified, 95% of the write-up, and 100% of the code had been completed and committed to the notebook. As such, it was not changed to reflect the change in the question.
+
 ## Status
 The status of this project is complete. As there is a submission date of the 18th December, 2020, the files will not be altered, from their current format, after that date. Where the last push/alter date is prior to the 18th December, 2020,, that date can be viewed as the completion date.
  
